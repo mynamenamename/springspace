@@ -1,0 +1,8 @@
+package ex3_autowiring;
+
+public interface Outputer {
+
+	
+	public void writeMessage(String msg)  throws IOException;
+	
+}

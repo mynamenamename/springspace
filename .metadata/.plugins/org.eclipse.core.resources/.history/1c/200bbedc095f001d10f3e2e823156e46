@@ -1,0 +1,22 @@
+package ex1_xml2_ref;
+
+public class MemberDAO {
+
+	
+	private MemberBean member;
+
+	
+	
+	
+	
+	
+	//setter, getter
+
+	public void setMember(MemberBean member) {
+		this.member = member;
+	}
+	
+	
+	
+	
+}
